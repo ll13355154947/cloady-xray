@@ -1,0 +1,1 @@
+{"inbounds":[{"listen":"0.0.0.0","port":3000,"protocol":"vless","settings":{"clients":[{"flow":"","id":"__UUID__"}],"decryption":"none"},"streamSettings":{"network":"ws","security":"none","wsSettings":{"path":"__WS_PATH__"}}}],"log":{"loglevel":"warning"},"outbounds":[{"protocol":"freedom","tag":"direct"},{"protocol":"blackhole","tag":"blocked"}]}
